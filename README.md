@@ -1,7 +1,6 @@
-### bitmart-smart-contract
-smart contracts for token and crowd sale.
+### Contract Description
 
-BMX.sol : BMX Contract 
+BMX.sol : smart contracts for BMX token and crowd sale.
 
 SafeMath.sol: SafeMath Contract lib, used by Timelock.sol
 
